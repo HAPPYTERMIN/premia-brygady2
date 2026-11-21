@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pomaranczowe cegly na ciemnym tle (fuga w kolorze tla) -->
+    <path android:fillColor="#F5A524" android:pathData="M22,34h30v12H22z" />
+    <path android:fillColor="#F5A524" android:pathData="M56,34h30v12H56z" />
+    <path android:fillColor="#F5A524" android:pathData="M22,50h14v12H22z" />
+    <path android:fillColor="#F5A524" android:pathData="M40,50h30v12H40z" />
+    <path android:fillColor="#F5A524" android:pathData="M74,50h12v12H74z" />
+    <path android:fillColor="#F5A524" android:pathData="M22,66h30v12H22z" />
+    <path android:fillColor="#F5A524" android:pathData="M56,66h30v12H56z" />
+</vector>
